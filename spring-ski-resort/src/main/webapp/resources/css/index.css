@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#body>iframe{
+	pointer-events: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+    height: 1070px;
+	
+	
+}
+#body{
+	position: relative;
+	padding-bottom: 56.25%; 
+	height: 0;
+	width : 100%;
+} 
